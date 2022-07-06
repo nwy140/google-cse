@@ -90,7 +90,11 @@
     display: none !important;
     pointer-events: none;
 }
-.gcsc-find-more-on-google-query#issueHeader  {
+.gcsc-find-more-on-google#issueHeader  {
+    display: none !important;
+    pointer-events: none;
+}
+#gcsc-find-more-on-google#issueHeader  {
     display: none !important;
     pointer-events: none;
 }
@@ -99,3 +103,14 @@
     pointer-events: none;
 }
 
+a .gcsc-find-more#issueHeader {
+    pointer-events: none;
+}
+a[href^="https://www.google.com"] 
+{
+    display: none !important;
+    pointer-events: none;
+}
+
+
+/*https://stackoverflow.com/questions/3859101/what-does-ahref-do-in-css*/
