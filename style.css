@@ -83,19 +83,19 @@
   
 }
 .gcsc-more-maybe-branding-root#issueHeader  {
-    display: block !important;
+    display: none !important;
     pointer-events: none;
 }
 .gcsc-find-more#issueHeader  {
-    display: block !important;
+    display: none !important;
     pointer-events: none;
 }
 .gcsc-find-more-on-google-query#issueHeader  {
-    display: block !important;
+    display: none !important;
     pointer-events: none;
 }
 .gcsc-find-more-on-google-text#issueHeader  {
-    display: block !important;
+    display: none !important;
     pointer-events: none;
 }
 
