@@ -84,5 +84,6 @@
 }
 .gcsc-more-maybe-branding-root#issueHeader  {
     display: block !important;
+    pointer-events: none;
 }
 
