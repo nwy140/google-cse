@@ -82,7 +82,7 @@
     text-align: center;
   
 }
-.gcsc-more-maybe-branding-root {
-    display: block;
+.gcsc-more-maybe-branding-root#issueHeader  {
+    display: block !important;
 }
 
